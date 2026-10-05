@@ -1,0 +1,6 @@
+{
+  "name": "BloodLink AI – Predictive Blood Shortage Network",
+  "description": "National centralized blood ecosystem preventing shortages with real-time inventory tracking, AI predictive analytics, Thalassemia monthly priority reservation, emergency donor activation, and inter-facility logistics coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
